@@ -9,4 +9,4 @@
 * seaborn
 * numpy
 * scipy 
-* plotly.express as px
+* plotly
