@@ -1,5 +1,5 @@
 ## Создание дашборда в Tableau по пользовательским событиям для агрегатора новостей
-- **[Дашборд](https://public.tableau.com/views/Project3_16974481882240/-?:language=en-US&:display_count=n&:origin=viz_share_link)**
+**[Дашборд](https://public.tableau.com/views/Project3_16974481882240/-?:language=en-US&:display_count=n&:origin=viz_share_link)**
 
 ### Описание проекта
 Требуется исследовать историю TED-конференций и подготовить интерактивный дашборд с использованием BI-инструмента Tableau на основе полученных данных.
