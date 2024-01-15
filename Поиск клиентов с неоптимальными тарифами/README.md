@@ -13,7 +13,6 @@
 * Scipy 
 * Plotly
 * Microsoft PowerPoint
-* Анали
 * Проверка статистических гипотез
 
 ### Общий вывод
